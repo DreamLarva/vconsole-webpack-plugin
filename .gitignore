@@ -4,5 +4,6 @@
 project.properties
 project.properties.git
 .git/
+.idea/
 
 node_modules/
